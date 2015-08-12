@@ -1,0 +1,15 @@
+{
+  "name": "read-write-google-spreadsheet",
+  "version": "1.0.0",
+  "description": "Expose google-spreadsheet API for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "gowthaman@ideas2it.com",
+  "license": "ISC",
+  "dependencies": {
+    "edit-google-spreadsheet": "^0.2.19",
+    "underscore": "^1.8.3"
+  }
+}
