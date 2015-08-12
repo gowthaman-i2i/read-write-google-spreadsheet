@@ -2,12 +2,12 @@
 
 > A simple API for reading and writing Google Spreadsheets in Node.js
  
-### install
+#### install
 ```
  npm install read-write-google-spreadsheet
 ```
 
-### Basic Usage
+#### Basic Usage
  *Note: Using the options `spreadsheetName` and `worksheetName` will cause lookups for `spreadsheetId` and `worksheetId`. Use `spreadsheetId` and `worksheetId` for improved performance.*
  
  ```
@@ -30,3 +30,14 @@
       -----
    }
  ```
+
+
+#### Todo
+
+* Update specific row
+* Update specific range of cells
+ 
+#### References
+
+* https://developers.google.com/google-apps/spreadsheets/
+* https://github.com/jpillora/node-edit-google-spreadsheet
