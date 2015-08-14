@@ -1,6 +1,6 @@
 {
   "name": "read-write-google-spreadsheet",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Expose google-spreadsheet API for users",
   "keywords": [
     "google-spreadsheet",
