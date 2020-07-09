@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^1.4.2",
-    "edit-google-spreadsheet": "^0.2.19",
+    "edit-google-spreadsheet": "^0.3.0",
     "underscore": "^1.8.3"
   }
 }
